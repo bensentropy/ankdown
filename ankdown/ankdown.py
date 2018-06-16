@@ -97,7 +97,7 @@ class Card(object):
         }
 
         .latex {
-            height: 0.8em;
+            height: 4em;
         }
         """,
     )
