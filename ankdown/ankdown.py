@@ -95,8 +95,10 @@ class Card(object):
             color: black;
             background-color: white;
         }
-
         .latex {
+            height: 0.8em;
+        }
+        .latex p:only-child {
             height: 4em;
         }
         """,
